@@ -14,12 +14,7 @@ The website is hosted on **Amazon S3** using static website hosting, which makes
 
 
  🧰 **Technologies & AWS Services Used**
- HTML
- CSS
- AWS S3 – Static Website Hosting
- IAM – Access Management
- GitHub – Code Version Control
-
+ HTML , CSS , AWS S3 – Static Website Hosting , IAM – Access Management
 
  📁 **Files in This Repository**
  **index.html**   
